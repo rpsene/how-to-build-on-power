@@ -106,6 +106,8 @@ There is an awesome tool called OSPAT (Open Source POWER Availability Tool) that
 
 ### How to create multi-arch Docker images?
 
+The step-by-step [can be found here](https://rpsene.wordpress.com/2019/03/19/docker-creating-multi-arch-images/). Ensure you have a DockerHub account when trying it :)
+
 ## Support or Contact
 
 Questions or concerns: rpsene@br.ibm.com.
