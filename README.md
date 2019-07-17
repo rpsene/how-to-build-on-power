@@ -68,7 +68,6 @@ language: bash
 matrix: 
     include: 
         - os: linux-ppc64le
-        - os: linux
 
 script: 
     - uname -a
