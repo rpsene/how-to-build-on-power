@@ -10,12 +10,12 @@ To learn more about Power click [HERE](https://www.ibm.com/it-infrastructure/pow
 
 There are several public cloud offerings which provides access (some of that are FREE, yay!) to Power. Those offerings are very interesting for developers working with Open Source Communities which requires access to Power resources for testing, porting, etc.
 
-[Unicamp's Minicloud](http://openpower.ic.unicamp.br/minicloud/)
-[Power Development Cloud](https://www.ibm.com/partnerworld/wps/ent/pdp/web/MyProgramAccess)
-[Oregon State University](http://osuosl.org/services/powerdev/)
-[University of Texas](http://openfabric.org/)
-[Brno University of Technology](http://bit.ly/brnoPOWER8cloud)
-[SiteOX](https://www.siteox.com/cart.php?gid=22)
+* [Unicamp's Minicloud](http://openpower.ic.unicamp.br/minicloud/)
+* [Power Development Cloud](https://www.ibm.com/partnerworld/wps/ent/pdp/web/MyProgramAccess)
+* [Oregon State University](http://osuosl.org/services/powerdev/)
+* [University of Texas](http://openfabric.org/)
+* [Brno University of Technology](http://bit.ly/brnoPOWER8cloud)
+* [SiteOX](https://www.siteox.com/cart.php?gid=22)
 
 [Take a look at this map](http://developers.openpowerfoundation.org/explore) which depicts the location of those aforementioned clouds.
 
@@ -31,13 +31,13 @@ The definitive how-to guide can be find [HERE](https://developer.ibm.com/linuxon
 
 All major Linux distributions are supported on Power:
 
-[Red Hat Enterprise Linux (RHEL)](https://access.redhat.com/solutions/1124983)
-[CentOS](http://isoredirect.centos.org/altarch/7/isos/ppc64le/)
-[Fedora](https://alt.fedoraproject.org/alt/)
-[Ubuntu](https://www.ubuntu.com/download/server/power)
-[Debian](https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/)
-[SUSE Linux Enterprise Server (SLES)](https://www.suse.com/products/power/)
-[openSUSE](https://download.opensuse.org/ports/ppc/tumbleweed/iso/)
+* [Red Hat Enterprise Linux (RHEL)](https://access.redhat.com/solutions/1124983)
+* [CentOS](http://isoredirect.centos.org/altarch/7/isos/ppc64le/)
+* [Fedora](https://alt.fedoraproject.org/alt/)
+* [Ubuntu](https://www.ubuntu.com/download/server/power)
+* [Debian](https://cdimage.debian.org/debian-cd/current/ppc64el/iso-cd/)
+* [SUSE Linux Enterprise Server (SLES)](https://www.suse.com/products/power/)
+* [openSUSE](https://download.opensuse.org/ports/ppc/tumbleweed/iso/)
 
 ## How do I build on POWER using Travis?
 
