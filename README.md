@@ -1,8 +1,8 @@
-## Do you want to build on POWER?
+## Do you want to build on POWER?<a name="top"></a>
 
 This FAQ answers common questions for those consideting adopting POWER (ppc64le) as a supported platform. It consolidates the several resources available to ease the journey to POWER. Welcome :)
 
-## Table of Contents<a name="top"></a>
+## Table of Contents
 1. [Where can I learn more about POWER?](#learn-more)
 2. [Where can I get access to POWER?](#access-power)
 3. [Where can I find resources for development on POWER?](#resources-power)
